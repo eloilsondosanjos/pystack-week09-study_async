@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs e arquivos temporários
+*.log
+*.pot
+*.po
+*.pot
+*.mo
+*~
+__pycache__
+*.swp
+*.db
+*.sqlite3
+
+# Ambientes virtuais
+venv/
+env/
