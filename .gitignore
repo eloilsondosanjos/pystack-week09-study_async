@@ -13,8 +13,8 @@ __pycache__/
 *~
 __pycache__
 *.swp
-*.db
-*.sqlite3
+*.dbw
+#*.sqlite3
 
 # Ambientes virtuais
 venv/
